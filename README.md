@@ -1,3 +1,3 @@
 # newrepo
 <br>
-author : Mayuresh mandge
+author : Mayuresh mandge(git hub repo)
